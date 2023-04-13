@@ -1,0 +1,17 @@
+{
+    "name":"5h4",
+    "version": "0.1.0",
+    "main": "calch4",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/20501a05h4/calch4"
+    },
+    "keywords": [
+        "calc",
+        "h4calc","calculator"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node":"*"
+    }
+}
